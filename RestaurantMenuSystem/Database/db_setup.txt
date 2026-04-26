@@ -1,0 +1,30 @@
+﻿--  create the database
+create database restaurantdb;
+go
+
+use restaurantdb;
+go
+
+--  create the menuitems table
+create table menuitems (
+    id int primary key identity(1,1),
+    name nvarchar(100) not null,
+    description nvarchar(max),
+    category nvarchar(50),
+    price decimal(18, 2) not null
+);
+go
+
+--  insert sample data
+insert into menuitems (name, description, category, price) values
+('chicken soup', 'warm and healthy starter', 'starter', 250.00),
+('beef burger', 'juicy patty with fries', 'main course', 850.00),
+('gulab jamun', 'sweet traditional dessert', 'desserts', 150.00),
+('stuffed mushrooms', 'mushrooms filled with cheese and herbs', 'starter', 450.00),
+('mutton karahi', 'traditional style mutton karahi', 'main course', 1800.00),
+('club sandwich', 'three layers of bread with chicken and egg', 'main course', 550.00),
+('ice cream scoop', 'choice of vanilla or chocolate', 'desserts', 200.00);
+go
+
+--  verify the data
+select * from menuitems;

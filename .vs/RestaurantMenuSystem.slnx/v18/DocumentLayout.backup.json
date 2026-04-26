@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\views\\menu\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|c:\\users\\oprct_fariz_ali\\source\\repos\\restaurantmenusystem\\restaurantmenusystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB9F5CCF-7718-4CDA-9EF2-0F806A0950E9}|RestaurantMenuSystem\\RestaurantMenuSystem.csproj|solutionrelative:restaurantmenusystem\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RestaurantMenuSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:04:46.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Menu\\Details.cshtml",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Views\\Menu\\Details.cshtml",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Menu\\Details.cshtml",
+              "RelativeToolTip": "RestaurantMenuSystem\\Views\\Menu\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:03:56.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "RestaurantMenuSystem\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:02:13.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "RestaurantMenuSystem\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:00:14.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Program.cs",
+              "RelativeToolTip": "RestaurantMenuSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:59:06.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\appsettings.json*",
+              "RelativeToolTip": "RestaurantMenuSystem\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-25T16:58:03.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "RestaurantMenuSystem\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:57:02.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantMenuSystem\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\OPRCT_FARIZ_ALI\\source\\repos\\RestaurantMenuSystem\\RestaurantMenuSystem\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantMenuSystem\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:55:52.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

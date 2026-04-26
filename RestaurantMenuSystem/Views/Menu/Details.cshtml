@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model RestaurantSystem.Models.MenuItem
+
+<style>
+    body {
+        background-color: #fff; /* clean white background */
+        color: #333;
+    }
+
+    .minimal-container {
+        max-width: 600px;
+        margin-top: 100px;
+    }
+
+    .item-name {
+        color: #ff8c00; /* vibrant orange */
+        font-weight: 800;
+        letter-spacing: -1px;
+    }
+
+    .category-label {
+        color: #ffca28; /* yellow accent */
+        text-transform: lowercase;
+        font-weight: bold;
+        font-size: 0.9rem;
+    }
+
+    .price-minimal {
+        font-size: 2rem;
+        color: #444;
+        margin: 20px 0;
+    }
+
+    .btn-minimal {
+        border-bottom: 2px solid #ff8c00;
+        color: #ff8c00;
+        text-decoration: none;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+        .btn-minimal:hover {
+            color: #ffca28;
+            border-bottom-color: #ffca28;
+        }
+</style>
+
+<div class="container minimal-container text-center">
+    <span class="category-label">@Model.Category</span>
+    
+    <h1 class="item-name text-lowercase">@Model.Name</h1>
+    
+    <div class="price-minimal">
+        rs. @Model.Price.ToString("0.00")
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-10">
+            <p class="text-muted italic">@Model.Description</p>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <a asp-action="index" class="btn-minimal">← back to menu</a>
+    </div>
+</div>
